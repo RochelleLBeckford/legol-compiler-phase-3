@@ -34,7 +34,7 @@ BUILD <color> <size> -> to build a single Legol Building block
 STACK <color> <size> -> to stack one Legol Building block on another
 END -> to quit the program
 
-Please entera Legol command:
+Please enter Legol command:
 BUILD pink medium
 
 WORD TYPES:
